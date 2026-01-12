@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rumaiya Islam</h1>
+<h1 align="center">Hi 👋, I'm Rumaiya</h1>
 <h3 align="center">CSE Student | Full-Stack Developer in Training</h3>
 
 <p align="center">
@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=rumu5550&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
@@ -17,7 +17,7 @@
 - 🌱 Learning **Full-Stack Development**
 - 🛠️ Working with **HTML, CSS, JavaScript, PHP, MySQL**
 - 🎯 Goal: Global Software Engineer
-- 🇦🇺 Dream: Work in Australia
+
 
 ---
 
@@ -32,11 +32,11 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rumu5550&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rumu5550&theme=tokyonight" />
 </p>
 
 ---
@@ -44,23 +44,23 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=rumu5550&theme=onedark&row=1" />
 </p>
 
 ---
 
 ### 🌱 Current Focus
 
-- Building real-world Full-Stack Projects  
-- Data Structures & Algorithms  
+- Building real-world Full-Stack Projects   
 - Internship & Job Preparation
 
 ---
 
 ### 📫 Connect With Me
 
-- GitHub: https://github.com/YOUR_USERNAME  
-- LinkedIn: Coming soon  
+- GitHub: https://github.com/rumu5550 
+- LinkedIn: https://www.linkedin.com/in/rumaiya5550/
+- Gmail: sayedarumaiyaislam@gmail.com
 
 ---
 
