@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="1584" height="396" alt="Rumaiya's Banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=250&section=header&text=Sayeda%20Rumaiya%20Islam&fontSize=60&animation=fadeIn&fontAlignY=38" />
+  <img width="1584" height="396" alt="Sayeda Rumaiya Islam Banner" src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=300&section=header&text=Sayeda%20Rumaiya%20Islam&fontSize=55&fontColor=00c6ff&animation=twinkling&desc=Full-Stack%20Developer%20|%20CSE%20Student&descSize=20&descAlignY=65" />
 </p>
 
 <div align="center">
@@ -51,13 +51,6 @@ I'm **Sayeda Rumaiya Islam**, a passionate **Computer Science & Engineering (CSE
 ### 🔥 GitHub Dashboard
 <p align="center">
   <img src="https://yourinsights.vercel.app/api/insight?username=rumu5550&theme=ocean&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true" alt="Sayeda Rumaiya Islam's Dashboard" />
-</p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-### 📈 Contribution Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rumu5550&theme=react-dark&area=true&hide_border=true&color=00c6ff" width="100%" alt="Activity Graph" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
