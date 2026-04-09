@@ -9,7 +9,7 @@
   <p>
     <b style="color: #bdc3c7;">Frontend Specialist</b> • 
     <b style="color: #2ecc71;">Backend Specialist </b> • 
-    <b style="color: #2ecc71;"Problem Solver</b>
+    <b style="color: #2ecc71;">Problem Solver</b>
   </p>
   
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -42,8 +42,9 @@ I'm Sayeda Rumaiya Islam a dedicated Computer Science & Engineering student from
 </p>
 
 ---
-<p>🌱 Current Focus
-- Building real-world Full-Stack Projects   
+<p>🌱<b> Current Focus</b>
+- Building real-world Full-Stack Projects 
+  <br>
 - Internship & Job Preparation
 </p>
 <br>
