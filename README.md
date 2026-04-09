@@ -1,10 +1,10 @@
 <p align="center">
-  <img width="1584" height="396" alt="Sayeda Rumaiya Islam Banner" src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=300&section=header&text=Sayeda%20Rumaiya%20Islam&fontSize=55&fontColor=00c6ff&animation=twinkling&desc=Full-Stack%20Developer%20|%20CSE%20Student&descSize=20&descAlignY=65" />
+  <img width="1584" height="396" alt="Sayeda Rumaiya Islam Banner" src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=300&section=header&text=Sayeda%20Rumaiya%20Islam&fontSize=55&fontColor=2ecc71&animation=twinkling&desc=Full-Stack%20Developer%20|%20CSE%20Student&descSize=20&descAlignY=65" />
 </p>
 
 <div align="center">
   <h1>Hi, I'm Sayeda Rumaiya Islam 👋</h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Oxanium&weight=600&size=30&center=true&vCenter=true&width=600&height=70&duration=4000&lines=CSE+Student;Full-Stack+Developer;Future+Global+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Oxanium&weight=600&size=30&center=true&vCenter=true&width=600&height=70&duration=4000&color=2ecc71&lines=CSE+Student;Full-Stack+Developer;Future+Global+Engineer" />
   <p><strong>Problem Solver • Modern UI Enthusiast • Performance-Focused Developer</strong></p>
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
@@ -33,24 +33,24 @@ I'm **Sayeda Rumaiya Islam**, a passionate **Computer Science & Engineering (CSE
 
 ### 🔹 Web Development & Design
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,figma&theme=dark" />
 </p>
 
 ### 🔹 Backend & Database
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=php,mysql,nodejs" />
+  <img src="https://skillicons.dev/icons?i=php,mysql,nodejs&theme=dark" />
 </p>
 
 ### 🔹 Tools & Workflow
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" />
 </p>
 
 ---
 
 ### 🔥 GitHub Dashboard
 <p align="center">
-  <img src="https://yourinsights.vercel.app/api/insight?username=rumu5550&theme=ocean&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true" alt="Sayeda Rumaiya Islam's Dashboard" />
+  <img src="https://yourinsights.vercel.app/api/insight?username=rumu5550&theme=terminal&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true" alt="Sayeda Rumaiya Islam's Dashboard" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -64,7 +64,7 @@ I'm **Sayeda Rumaiya Islam**, a passionate **Computer Science & Engineering (CSE
 
 ## Let's Connect 🌐  
 <p align="left">
-<a href="https://github.com/rumu5550"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/rumu5550"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=2ecc71" /></a>
 <a href="https://linkedin.com/in/rumaiya5550/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:sayedarumaiyaislam@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
