@@ -1,88 +1,66 @@
 <p align="center">
-  <img width="1584" height="396" alt="Sayeda Rumaiya Islam Banner" src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=300&section=header&text=Sayeda%20Rumaiya%20Islam&fontSize=55&fontColor=2ecc71&animation=twinkling&desc=Full-Stack%20Developer%20|%20CSE%20Student&descSize=20&descAlignY=65" />
+  <img width="1584" height="396" alt="Sayeda Rumaiya Islam Banner" src="https://capsule-render.vercel.app/api?type=rect&color=0:2c3e50,50:000000,100:2ecc71&height=300&section=header&text=Sayeda%20Rumaiya%20Islam&fontSize=55&fontColor=ffffff&animation=twinkling&desc=Full-Stack%20Architect%20|%20CSE%20Scholar&descSize=20&descAlignY=65" />
 </p>
 
-<div align="center" style="background-color: #0d1117; color: #dcdcdc; padding: 20px;">
-  <span style="font-size: 30px; font-weight: bold;">Hi, I'm <span style="color: #2ecc71;">Sayeda Rumaiya Islam</span> 👋</span>
-  <br/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Oxanium&weight=600&size=30&center=true&vCenter=true&width=600&height=70&duration=4000&color=2ecc71&lines=CSE+Student;Full-Stack+Developer;Future+Global+Engineer" />
-  <p style="color: #8b949e; font-weight: bold;">Problem Solver • Modern UI Enthusiast • Performance-Focused Developer</p>
+<div align="center">
+  <h1 style="border-bottom: 2px solid #2ecc71; display: inline-block; padding-bottom: 5px;">Hi, I'm Sayeda Rumaiya Islam 👋</h1>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Oxanium&weight=600&size=30&center=true&vCenter=true&width=600&height=70&duration=4000&color=2ecc71&lines=Code+Architect;Full-Stack+Innovator;Scalable+System+Designer" />
+  
+  <p>
+    <b style="color: #bdc3c7;">Logic Strategist</b> • 
+    <b style="color: #2ecc71;">UX Visionary</b> • 
+    <b style="color: #bdc3c7;">Optimization Specialist</b>
+  </p>
+  
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
 <img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
-<div style="background-color: #0d1117; color: #dcdcdc; padding: 10px;">
-  <span style="font-size: 24px; color: #2ecc71; font-weight: bold;">About Me 🚀</span>
-  <p>I'm **Sayeda Rumaiya Islam**, a passionate **Computer Science & Engineering (CSE)** student and an aspiring **Full-Stack Developer** from **Bangladesh**. I love building scalable and user-friendly applications and am always eager to learn new tools and frameworks.</p>
-  <div style="color: #8b949e;">
-    • 🎓 Studying **Computer Science & Engineering**<br/>
-    • 🌱 Learning **Full-Stack Development** (HTML, CSS, JS, PHP, MySQL)<br/>
-    • 🌍 Based in **Bangladesh**<br/>
-    • 🎯 Goal: **Global Software Engineer**
-  </div>
-</div>
+<h3 style="color: #2ecc71; border-bottom: 1px solid #34495e;">About Me 🚀</h3>
+<p style="color: #bdc3c7;">
+I'm **Sayeda Rumaiya Islam**, a dedicated **Computer Science & Engineering** student from **Bangladesh**. I specialize in building high-performance web ecosystems and am training to become a **Global Software Engineer**.
+</p>
+
+<ul style="color: #8b949e; list-style-type: square;">
+  <li>🎓 <b style="color: #2ecc71;">Academic:</b> Computer Science & Engineering</li>
+  <li>🌱 <b style="color: #2ecc71;">Specialization:</b> Full-Stack (JS, PHP, MySQL)</li>
+  <li>🌍 <b style="color: #2ecc71;">Location:</b> Dhaka, Bangladesh</li>
+  <li>🎯 <b style="color: #2ecc71;">Mission:</b> Engineering Global Tech Solutions</li>
+</ul>
 
 <br/>
 
-<div style="background-color: #0d1117; color: #dcdcdc; padding: 10px;">
-  <span style="font-size: 24px; color: #2ecc71; font-weight: bold;">Current Activities 🔭</span>
-  <div style="color: #8b949e;">
-    • 🌱 I’m currently exploring **Full-Stack Architectures**.<br/>
-    • 👨‍💻 Working on **Real-world Web Projects**.<br/>
-    • 📚 Preparing for **Internships & Job roles**.<br/>
-    • 💡 Contributing to open-source and refining coding logic.
-  </div>
-</div>
+<h3 style="color: #2ecc71; border-bottom: 1px solid #34495e;">🛠️ Tech Stack & Skills</h3>
 
-<br/>
-
-<div style="background-color: #0d1117; color: #dcdcdc; padding: 10px;">
-  <span style="font-size: 24px; color: #2ecc71; font-weight: bold;">🛠️ Tech Stack & Skills</span>
-  <br/>
-  <span style="color: #8b949e; font-weight: bold;">🔹 Web Development & Design</span>
-  <p align="left">
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,figma&theme=dark" />
-  </p>
-  <span style="color: #8b949e; font-weight: bold;">🔹 Backend & Database</span>
-  <p align="left">
-    <img src="https://skillicons.dev/icons?i=php,mysql,nodejs&theme=dark" />
-  </p>
-  <span style="color: #8b949e; font-weight: bold;">🔹 Tools & Workflow</span>
-  <p align="left">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" />
-  </p>
-</div>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,figma,php,mysql,nodejs,git,github,vscode&theme=dark" />
+</p>
 
 ---
 
-<div style="background-color: #0d1117; color: #dcdcdc; padding: 10px;" align="center">
-  <span style="font-size: 24px; color: #2ecc71; font-weight: bold;">🔥 GitHub Dashboard</span>
-  <br/>
-  <img src="https://yourinsights.vercel.app/api/insight?username=rumu5550&theme=terminal&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true" alt="Sayeda Rumaiya Islam's Dashboard" />
+<h3 style="color: #2ecc71;" align="center">🔥 System Insights</h3>
+<p align="center">
+  <img src="https://yourinsights.vercel.app/api/insight?username=rumu5550&theme=terminal&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true" alt="Dashboard" />
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Great%20developers%20never%20stop%20learning.&author=Sayeda%20Rumaiya%20Islam" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<div align="center" style="background-color: #0d1117; color: #dcdcdc; padding: 10px;">
-  <span style="font-size: 20px; font-weight: bold;">Quote of the Day 🌟</span>
-  <br/>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Great%20developers%20never%20stop%20learning.&author=Sayeda%20Rumaiya%20Islam" />
-</div>
-
 ---
 
-<div style="background-color: #0d1117; color: #dcdcdc; padding: 10px;">
-  <span style="font-size: 24px; color: #2ecc71; font-weight: bold;">🌐 Let's Connect</span>
-  <p align="left">
-    <a href="https://github.com/rumu5550"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=2ecc71" /></a>
-    <a href="https://linkedin.com/in/rumaiya5550/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="mailto:sayedarumaiyaislam@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  </p>
-</div>
+<h3 style="color: #2ecc71; border-bottom: 1px solid #34495e;">🌐 Network</h3>
+<p align="left">
+  <a href="https://github.com/rumu5550"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=2ecc71" /></a>
+  <a href="https://linkedin.com/in/rumaiya5550/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:sayedarumaiyaislam@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
----
-
-<p align="center" style="background-color: #0d1117; color: #dcdcdc; padding: 10px;"> 
-  <b>Thanks for visiting my profile! Keep Coding! 😄</b>
+<p align="center" style="color: #34495e;"> 
+  <i>System Status: Active | Built with Passion ⚡</i>
 </p>
