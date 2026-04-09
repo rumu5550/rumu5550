@@ -19,7 +19,7 @@
 
 <h3 style="color: #2ecc71; border-bottom: 2px solid #0072ff;">About Me 🚀</h3>
 <p style="color: #bdc3c7;">
-I'm **Sayeda Rumaiya Islam**, a dedicated **Computer Science & Engineering** student from **Bangladesh**. I focus on crafting seamless user experiences and robust server-side logic, aiming to become a **Global Software Engineer**.
+I'm **Sayeda Rumaiya Islam**, a dedicated **Computer Science & Engineering** student from **Bangladesh**. I focus on crafting seamless user experiences and robust server-side logic.
 </p>
 
 <ul style="color: #8b949e; list-style-type: square;">
@@ -31,8 +31,7 @@ I'm **Sayeda Rumaiya Islam**, a dedicated **Computer Science & Engineering** stu
 
 <br/>
 
-<h3 style="color: #2ecc71; border-bottom: 2px solid #0072ff;">🛠️ Tech Stack & Skills</h3>
-
+<h3 style="color: #2ecc71; border-bottom: 2px solid #0072ff;">🛠️ Core Technologies</h3>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,figma,php,mysql,nodejs,git,github,vscode&theme=dark" />
 </p>
@@ -42,6 +41,11 @@ I'm **Sayeda Rumaiya Islam**, a dedicated **Computer Science & Engineering** stu
 <h3 style="color: #2ecc71; border-bottom: 2px solid #0072ff;" align="center">🔥 System Insights</h3>
 <p align="center">
   <img src="https://yourinsights.vercel.app/api/insight?username=rumu5550&theme=terminal&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true" alt="Dashboard" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rumu5550&show_icons=true&theme=tokyonight&hide_border=true&title_color=0072ff&icon_color=2ecc71" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rumu5550&layout=compact&theme=tokyonight&hide_border=true&title_color=0072ff" width="45%" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -54,7 +58,7 @@ I'm **Sayeda Rumaiya Islam**, a dedicated **Computer Science & Engineering** stu
 
 ---
 
-<h3 style="color: #2ecc71; border-bottom: 2px solid #0072ff;">🌐 Network</h3>
+<h3 style="color: #2ecc71; border-bottom: 2px solid #0072ff;">🌐 Digital Footprint</h3>
 <p align="left">
   <a href="https://github.com/rumu5550"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=2ecc71" /></a>
   <a href="https://linkedin.com/in/rumaiya5550/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -62,5 +66,5 @@ I'm **Sayeda Rumaiya Islam**, a dedicated **Computer Science & Engineering** stu
 </p>
 
 <p align="center" style="color: #34495e;"> 
-  <i>System Status: Optimized | Built with Passion ⚡</i>
+  <i>System Status: Operational | 🟢 Active</i>
 </p>
