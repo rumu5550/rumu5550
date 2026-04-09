@@ -55,9 +55,9 @@ I'm **Sayeda Rumaiya Islam**, a passionate **Computer Science & Engineering (CSE
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### 🏗️ Contribution Isometric City
+### 📈 Contribution Activity Graph
 <p align="center">
-  <img src="https://github-cube-calendar.vercel.app/api/cube?username=rumu5550&theme=dark&bg=0d1117&color=00c6ff" alt="Contribution City" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rumu5550&theme=react-dark&area=true&hide_border=true&color=00c6ff" width="100%" alt="Activity Graph" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
