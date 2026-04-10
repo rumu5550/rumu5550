@@ -18,13 +18,17 @@
     Hi, I'm Sayeda Rumaiya Islam 👋
   </h1>
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Oxanium&weight=600&size=30&center=true&vCenter=true&width=600&height=70&duration=4000&color=2ecc71&lines=Full-Stack+Architect;Database+Strategist;Modern+Web+Developer"
+    src="https://readme-typing-svg.herokuapp.com?font=Oxanium&weight=600&size=30&center=true&vCenter=true&width=600&height=70&duration=4000&color=2ecc71&lines=Full-Stack+Architect;Modern+Web+Developer"
   />
 
   <p>
     <b style="color: #2ecc71">Frontend Specialist</b> •
     <b style="color: #2ecc71">Backend Specialist </b> •
-    <b style="color: #2ecc71">Problem Solver</b>
+    <b style="color: #2ecc71">Future Software Engineer</b>•
+    <b style="color: #2ecc71">Problem Solver</b> •
+    <b style="color: #2ecc71">Passionate Learner</b>
+     
+     
   </p>
 
   <img
