@@ -59,8 +59,7 @@
     🌱 <b style="color: #0072ff">Learning:</b> Full-Stack Development
   </li>
   <li>
-    🛠️ <b style="color: #0072ff">Working with:</b> HTML, CSS,Tailwind,
-    React,Firebase,NodeJS,Express,MongoDB
+    🛠️ <b style="color: #0072ff">Working with:</b> HTML, CSS,Tailwind,React,Firebase,NodeJS,Express,MongoDB
    </li>
   <li>
     🎯 <b style="color: #0072ff">Goal:</b> Global Software Engineer
