@@ -68,32 +68,23 @@
 <!-- Skills Section -->
 ## 🛠️ Tech Stack & Skills
 
-### 🔹 Frontend & Animation
+### 🔹 Frontend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs," />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react" />
 </p>
 
-### 🔹 State, Data & Validation
+### 🔹 Backend 
 <p align="left">
-  <img src="https://user-images.githubusercontent.com/958486/218346783-72be5ae3-b953-4dd7-b239-788a882fdad6.svg" width="45" height="45" alt="Zustand" />&nbsp;
-  <img src="https://tanstack.com/images/logos/logo-color-600.png" width="45" height="45" alt="TanStack Query" />&nbsp;
-  <img src="https://raw.githubusercontent.com/colinhacks/zod/master/logo.svg" width="45" height="45" alt="Zod" />
-</p>
-
-### 🔹 Backend & Auth
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
-  <img src="https://images.seeklogo.com/logo-png/65/1/clerk-icon-logo-png_seeklogo-653484.png" width="45" height="45" alt="Clerk" />&nbsp;
-  <img src="https://github.com/user-attachments/assets/e92a3bfa-9fd0-4712-903a-e279740d1ec2" width="45" height="45" alt="JWT" />
-</p>
-
+  <img src="https://skillicons.dev/icons?i=nodejs,express,firebase" />
+### 🔹<b>Database</b>
+   <img src="https://skillicons.dev/icons?i=mongodb" />
 ### 🔹 Tools
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,vscode" />
 </p>
----
+<hr>
 <p>
-  🌱<b> Current Focus</b>
+  🌱<h3>Current Focus</h3>
   <br>
   - Building real-world Full-Stack Projects
   <br />
