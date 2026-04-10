@@ -52,18 +52,18 @@
 
 <ul style="color: #8b949e; list-style-type: square">
   <li>
-    🎓 <b style="color: #0072ff">Domain:</b> Studying **Computer Science &
-    Engineering**
+    🎓 <b style="color: #0072ff">Studying:</b> Computer Science &
+    Engineering
   </li>
   <li>
-    🌱 <b style="color: #0072ff">Focus:</b> Learning **Full-Stack Development**
+    🌱 <b style="color: #0072ff">Learning:</b> Full-Stack Development
   </li>
   <li>
-    🛠️ <b style="color: #0072ff">Location:</b> Working with **HTML, CSS,
-    JavaScript, PHP, MySQL**
+    🛠️ <b style="color: #0072ff">Working with:</b> HTML, CSS,Tailwind,React,Firebase,NodeJS,Express,MongoDB
+  
   </li>
   <li>
-    🎯 <b style="color: #0072ff">Objective:</b> Goal: Global Software Engineer
+    🎯 <b style="color: #0072ff">Goal:</b> Global Software Engineer
   </li>
 </ul>
 
