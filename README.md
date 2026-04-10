@@ -76,8 +76,10 @@
 ### 🔹 Backend 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,express,firebase" />
-### 🔹<b>Database</b>
+
+### 🔹 Database
    <img src="https://skillicons.dev/icons?i=mongodb" />
+
 ### 🔹 Tools
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,vscode" />
