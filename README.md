@@ -3,7 +3,7 @@
     width="1584"
     height="396"
     alt="Sayeda Rumaiya Islam Banner"
-    src="https://capsule-render.vercel.app/api?type=rect&color=0:2c3e50,50:000000,100:2ecc71&height=300&section=header&text=Sayeda%20Rumaiya%20Islam&fontSize=55&fontColor=ffffff&animation=twinkling&desc=Full-Stack%20Engineer%20|%20CSE%20Scholar&descSize=20&descAlignY=65"
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:2c3e50,50:000000,100:2ecc71&height=300&section=header&text=Sayeda%20Rumaiya%20Islam&fontSize=55&fontColor=ffffff&animation=twinkling&desc=Full-Stack%20Engineer%20|%20CSE%20Student&descSize=20&descAlignY=65"
   />
 </p>
 
