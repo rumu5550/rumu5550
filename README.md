@@ -86,11 +86,10 @@
 </p>
 <hr>
 <p>
-  🌱<h3>Current Focus</h3>
-  <br>
-  - Building real-world Full-Stack Projects
+<h3>Current Focus🌱</h3>
+- Building real-world Full-Stack Projects
   <br />
-  - Internship & Job Preparation
+- Internship & Job Preparation
 </p>
 <br />
 <h3 style="color: #2ecc71; border-bottom: 2px solid #0072ff" align="center">
