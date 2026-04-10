@@ -91,6 +91,23 @@
   <br />
 - Internship & Job Preparation
 </p>
+
+<h3 style="color: #2ecc71; border-bottom: 2px solid #0072ff">Connect With Me 📫 </h3>
+<p align="left">
+  <a href="https://github.com/rumu5550"
+    ><img
+      src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=2ecc71"
+  /></a>
+  <a href="https://linkedin.com/in/rumaiya5550/"
+    ><img
+      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+  /></a>
+  <a href="mailto:sayedarumaiyaislam@gmail.com"
+    ><img
+      src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+  /></a>
+</p>
+
 <br />
 <h3 style="color: #2ecc71; border-bottom: 2px solid #0072ff" align="center">
   🔥 System Insights
@@ -118,21 +135,6 @@
 
 ---
 
-<h3 style="color: #2ecc71; border-bottom: 2px solid #0072ff">🌐 Network</h3>
-<p align="left">
-  <a href="https://github.com/rumu5550"
-    ><img
-      src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=2ecc71"
-  /></a>
-  <a href="https://linkedin.com/in/rumaiya5550/"
-    ><img
-      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-  /></a>
-  <a href="mailto:sayedarumaiyaislam@gmail.com"
-    ><img
-      src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-  /></a>
-</p>
 
 <!-- Footer -->
 <p align="center">
