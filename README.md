@@ -1,204 +1,104 @@
 <div align="center">
 
-# 👋 Hi, I'm YOUR_USERNAME
+# 👋 Hi, I'm Rumaiya
 
-### 💻 Web Developer • Problem Solver • Lifelong Learner
+### 🌱 Beginner Web Developer | Learning & Building
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Building+real-world+projects;Solving+problems+with+code;Learning+something+new+every+day;Turning+ideas+into+software+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Learning+Web+Development+%F0%9F%92%BB;Building+My+First+Projects+%F0%9F%9A%80;Learning+Something+New+Every+Day+%F0%9F%8C%B1" />
 
-<br/>
+<br>
 
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://yourportfolio.com">
-<img src="https://img.shields.io/badge/Portfolio-00E5FF?style=for-the-badge&logo=googlechrome&logoColor=black"/>
+<a href="https://github.com/rumu5550">
+<img src="https://img.shields.io/badge/GitHub-rumu5550-181717?style=for-the-badge&logo=github">
 </a>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 👩‍💻 About Me
 
-I'm a developer focused on building real-world applications,
-improving my problem-solving skills, and continuously learning
-new technologies.
+Hi! I'm Rumaiya, a beginner developer currently learning web development.
 
-- 🌱 Currently learning: Web Development
-- 💻 Interested in: Software Engineering
-- 🧠 Practicing: Data Structures & Algorithms
-- 🚀 Building: Real-world projects
-- 📚 Learning: Something new every day
+I'm starting my journey from the basics and gradually building my skills through practice and small projects.
 
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180"
-src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"/>
-
-<img height="180"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
+* 🌱 Currently learning: HTML
+* 💻 Interested in: Web Development
+* 🧠 Practicing: Programming fundamentals
+* 🚀 Goal: Become a professional developer
+* 📚 Learning something new every day
 
 ---
 
-## 🔥 GitHub Streak
+## 🛠️ Currently Learning
 
-<div align="center">
+<p>
+<img src="https://skillicons.dev/icons?i=html" />
+</p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-
-</div>
+> More technologies will be added as I learn them.
 
 ---
 
-## 🟩 Contribution Activity
+## 📚 My Learning Journey
 
-<div align="center">
+| Skill           | Status        |
+| --------------- | ------------- |
+| HTML            | 🟢 Learning   |
+| CSS             | ⚪ Coming Soon |
+| JavaScript      | ⚪ Coming Soon |
+| Git             | 🟢 Learning   |
+| GitHub          | 🟢 Learning   |
+| Problem Solving | ⚪ Coming Soon |
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true"/>
+---
 
-</div>
+## 🚀 My Projects
+
+I'm currently learning by building small projects.
+
+### 🌐 HTML Practice
+
+My first HTML practice projects and experiments.
+
+🔗 [View Repository](https://github.com/rumu5550)
 
 ---
 
 ## 🧠 Problem Solving
 
-<div align="center">
+I'm just starting my problem-solving journey.
 
-<a href="https://leetcode.com/YOUR_LEETCODE_USERNAME/">
+* 🌱 Learning programming fundamentals
+* 📚 Practicing basic problems
+* 🎯 Planning to start DSA gradually
 
-<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&ext=heatmap"/>
+---
 
-</a>
-
-</div>
-
-<br/>
+## 📊 GitHub Activity
 
 <div align="center">
 
-<a href="https://leetcode.com/YOUR_LEETCODE_USERNAME/">
-<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-<a href="https://codeforces.com/profile/YOUR_CODEFORCES_USERNAME">
-<img src="https://img.shields.io/badge/Codeforces-Profile-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
-</a>
-
-<a href="https://www.hackerrank.com/YOUR_HACKERRANK_USERNAME">
-<img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
-</a>
+<img src="https://github-readme-stats.vercel.app/api?username=rumu5550&show_icons=true&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-## ⚡ Tech Stack
+## 🌱 My Goal
 
-### Frontend
+> Learn → Practice → Build → Improve
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind"/>
-</p>
+I'm not trying to learn everything at once.
 
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres"/>
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,vercel"/>
-</p>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/YOUR_USERNAME/PROJECT_1">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_1&theme=tokyonight&hide_border=true"/>
-
-</a>
-
-<a href="https://github.com/YOUR_USERNAME/PROJECT_2">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_2&theme=tokyonight&hide_border=true"/>
-
-</a>
-
-</div>
-
----
-
-## 🎯 Currently Working On
-
-- 🌱 Learning JavaScript deeply
-- ⚛️ Building React applications
-- ▲ Learning Next.js
-- 🧠 Practicing Data Structures & Algorithms
-- 🔧 Learning backend development
-- 🚀 Building real-world projects
-
----
-
-## 📈 My Developer Journey
-
-| Area | Progress |
-|------|----------|
-| HTML | 🔄 Learning |
-| CSS | 🔄 Learning |
-| JavaScript | 🔄 Learning |
-| React | 🔄 Learning |
-| Next.js | 🔄 Learning |
-| Node.js | 🔜 |
-| Database | 🔜 |
-| Data Structures & Algorithms | 🔄 |
-| Full-Stack Development | 🎯 |
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"/>
-
-</div>
-
----
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"/>
-
-</div>
+I'm focusing on becoming **1% better every day.**
 
 ---
 
 <div align="center">
 
-### 💭 Developer Mindset
+### 🚀 Currently Learning. Currently Building.
 
-> **Small progress every day leads to big results.**
-
-### 🚀 Keep Building. Keep Learning. Keep Solving.
+Thanks for visiting my profile! 🤍
 
 </div>
