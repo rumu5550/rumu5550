@@ -1,146 +1,204 @@
-<p align="center">
-  <img
-    width="1584"
-    height="396"
-    alt="Sayeda Rumaiya Islam Banner"
-    src="https://capsule-render.vercel.app/api?type=rect&color=0:2c3e50,50:000000,100:2ecc71&height=300&section=header&text=Sayeda%20Rumaiya%20Islam&fontSize=55&fontColor=ffffff&animation=twinkling&desc=Full-Stack%20Engineer%20|%20CSE%20Student&descSize=20&descAlignY=65"
-  />
-</p>
-
 <div align="center">
-  <h1
-    style="
-      border-bottom: 3px solid #0072ff;
-      display: inline-block;
-      padding-bottom: 5px;
-    "
-  >
-    Hi, I'm Sayeda Rumaiya Islam 👋
-  </h1>
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=Oxanium&weight=600&size=30&center=true&vCenter=true&width=600&height=70&duration=4000&color=2ecc71&lines=Full-Stack+Architect;Modern+Web+Developer"
-  />
 
-  <p>
-    <b style="color: #2ecc71">Frontend Specialist</b> •
-    <b style="color: #2ecc71">Backend Specialist </b> •
-    <b style="color: #2ecc71">Future Software Engineer</b>•
-    <b style="color: #2ecc71">Problem Solver</b> •
-    <b style="color: #2ecc71">Passionate Learner</b>
-     
-     
-  </p>
+# 👋 Hi, I'm YOUR_USERNAME
 
-  <img
-    src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"
-  />
+### 💻 Web Developer • Problem Solver • Lifelong Learner
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Building+real-world+projects;Solving+problems+with+code;Learning+something+new+every+day;Turning+ideas+into+software+%F0%9F%9A%80" />
+
+<br/>
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://yourportfolio.com">
+<img src="https://img.shields.io/badge/Portfolio-00E5FF?style=for-the-badge&logo=googlechrome&logoColor=black"/>
+</a>
+
 </div>
-
-<img
-  align="right"
-  alt="Coding"
-  width="380"
-  src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"
-/>
-
-<h3 style="color: #2ecc71; border-bottom: 2px solid #0072ff">About Me 🚀</h3>
-<p style="color: #bdc3c7">
-  I'm Sayeda Rumaiya Islam a dedicated Computer Science & Engineering student
-  from Bangladesh. I focus on crafting seamless user experiences and robust
-  server-side logic, aiming to become a Global Software Engineer.
-</p>
-
-<ul style="color: #8b949e; list-style-type: square">
-  <li>
-    🎓 <b style="color: #0072ff">Studying:</b> Computer Science &
-    Engineering
-  </li>
-  <li>
-    🌱 <b style="color: #0072ff">Learning:</b> Full-Stack Development
-  </li>
-  <li>
-    🛠️ <b style="color: #0072ff">Working with:</b> HTML, CSS,Tailwind,React,Firebase,
-       NodeJS,Express,MongoDB
-   </li>
-  <li>
-    🎯 <b style="color: #0072ff">Goal:</b> Global Software Engineer
-  </li>
-</ul>
-
-<br />
-
-<!-- Skills Section -->
-## 🛠️ Tech Stack & Skills
-
-### 🔹 Frontend
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react" />
-</p>
-
-### 🔹 Backend 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,firebase" />
-
-### 🔹 Database
-   <img src="https://skillicons.dev/icons?i=mongodb" />
-
-### 🔹 Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,vscode" />
-</p>
-<hr>
-<p>
-<h3>Current Focus🌱</h3>
-- Building real-world Full-Stack Projects
-  <br />
-- Internship & Job Preparation
-</p>
-
-<h3 style="color: #2ecc71; border-bottom: 2px solid #0072ff">Connect With Me 📫 </h3>
-<p align="left">
-  <a href="https://github.com/rumu5550"
-    ><img
-      src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=2ecc71"
-  /></a>
-  <a href="https://linkedin.com/in/rumaiya5550/"
-    ><img
-      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-  /></a>
-  <a href="mailto:sayedarumaiyaislam@gmail.com"
-    ><img
-      src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-  /></a>
-</p>
-
-<br />
-<h3 style="color: #2ecc71; border-bottom: 2px solid #0072ff" align="center">
-  🔥 System Insights
-</h3>
-<p align="center">
-  <img
-    src="https://yourinsights.vercel.app/api/insight?username=rumu5550&theme=terminal&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true"
-    alt="Dashboard"
-  />
-</p>
-
-<img
-  src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"
-/>
-
-<div align="center">
-  <img
-    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Great%20developers%20never%20stop%20learning.&author=Sayeda%20Rumaiya%20Islam"
-  />
-</div>
-
-<img
-  src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"
-/>
 
 ---
 
+## 👨‍💻 About Me
 
-<!-- Footer -->
-<p align="center">
-  <b>Thanks for visiting my profile! 😄</b>
+I'm a developer focused on building real-world applications,
+improving my problem-solving skills, and continuously learning
+new technologies.
+
+- 🌱 Currently learning: Web Development
+- 💻 Interested in: Software Engineering
+- 🧠 Practicing: Data Structures & Algorithms
+- 🚀 Building: Real-world projects
+- 📚 Learning: Something new every day
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180"
+src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"/>
+
+<img height="180"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🟩 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true"/>
+
+</div>
+
+---
+
+## 🧠 Problem Solving
+
+<div align="center">
+
+<a href="https://leetcode.com/YOUR_LEETCODE_USERNAME/">
+
+<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&ext=heatmap"/>
+
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<a href="https://leetcode.com/YOUR_LEETCODE_USERNAME/">
+<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://codeforces.com/profile/YOUR_CODEFORCES_USERNAME">
+<img src="https://img.shields.io/badge/Codeforces-Profile-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+</a>
+
+<a href="https://www.hackerrank.com/YOUR_HACKERRANK_USERNAME">
+<img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
+</a>
+
+</div>
+
+---
+
+## ⚡ Tech Stack
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind"/>
 </p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres"/>
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,vercel"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/YOUR_USERNAME/PROJECT_1">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_1&theme=tokyonight&hide_border=true"/>
+
+</a>
+
+<a href="https://github.com/YOUR_USERNAME/PROJECT_2">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_2&theme=tokyonight&hide_border=true"/>
+
+</a>
+
+</div>
+
+---
+
+## 🎯 Currently Working On
+
+- 🌱 Learning JavaScript deeply
+- ⚛️ Building React applications
+- ▲ Learning Next.js
+- 🧠 Practicing Data Structures & Algorithms
+- 🔧 Learning backend development
+- 🚀 Building real-world projects
+
+---
+
+## 📈 My Developer Journey
+
+| Area | Progress |
+|------|----------|
+| HTML | 🔄 Learning |
+| CSS | 🔄 Learning |
+| JavaScript | 🔄 Learning |
+| React | 🔄 Learning |
+| Next.js | 🔄 Learning |
+| Node.js | 🔜 |
+| Database | 🔜 |
+| Data Structures & Algorithms | 🔄 |
+| Full-Stack Development | 🎯 |
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 Developer Mindset
+
+> **Small progress every day leads to big results.**
+
+### 🚀 Keep Building. Keep Learning. Keep Solving.
+
+</div>
