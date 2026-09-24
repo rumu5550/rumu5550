@@ -41,13 +41,13 @@ width="280"
 - 💻 &nbsp; <b>Learning:</b> C++ & Web Development
 - 🎯 &nbsp; <b>Interested In:</b> Software Development | Problem Solving
 - 🚀 &nbsp; <b>Currently Working On:</b> Personal Projects | Programming Practice
-- 👨🏻‍💻 &nbsp; <b>Most of my projects are available on:</b> [Github](https://github.com/rumu5550?tab=repositories)
 - 🤝 &nbsp; <b>Open To:</b> Learning | Collaboration | New Opportunities
+- 👨🏻‍💻 &nbsp; <b>Most of my projects are available on:</b> [Github](https://github.com/rumu5550?tab=repositories)
 - 📫 &nbsp; <b>Connect With Me:</b> [LinkedIn](https://www.linkedin.com/in/rumaiya5550/)
 - 📝 &nbsp; <b>Resume:</b> <a href="YOUR_RESUME_LINK">View Resume</a>
 - 📝 &nbsp; <b>CV:</b> <a href="YOUR_RESUME_LINK">View Resume</a>
 - 🎨 &nbsp; <b>Hobbies:</b> Drawing | Crafting
-- 🔭 &nbsp;<b>currently working:<b> Youtube Content Creating 
+- 🔭 &nbsp;<b>currently working:<b> Youtube Content Creating
 
 <!-- ==================== PROFILE HIGHLIGHTS ==================== -->
 <hr>
