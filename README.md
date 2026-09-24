@@ -47,7 +47,7 @@ width="280"
 - 📝 &nbsp; <b>Resume:</b> <a href="YOUR_RESUME_LINK">View Resume</a>
 - 📝 &nbsp; <b>CV:</b> <a href="YOUR_RESUME_LINK">View Resume</a>
 - 🎨 &nbsp; <b>Hobbies:</b> Drawing | Crafting
-- 🔭 &nbsp;<b>currently working:<b> Youtube Content Creating
+- 🔭 &nbsp;<b>Currently Working:<b> Youtube Content Creating
 
 <!-- ==================== PROFILE HIGHLIGHTS ==================== -->
 <hr>
