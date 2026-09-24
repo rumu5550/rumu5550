@@ -1,104 +1,87 @@
+<!-- ==================== HERO SECTION ==================== -->
 <div align="center">
-
-# 👋 Hi, I'm Rumaiya
-
-### 🌱 Beginner Web Developer | Learning & Building
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Learning+Web+Development+%F0%9F%92%BB;Building+My+First+Projects+%F0%9F%9A%80;Learning+Something+New+Every+Day+%F0%9F%8C%B1" />
-
-<br>
-
-<a href="https://github.com/rumu5550">
-<img src="https://img.shields.io/badge/GitHub-rumu5550-181717?style=for-the-badge&logo=github">
-</a>
-
+<img src="https://readme-typing-svg.demolab.com?font=Amarante&weight=400&size=24&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Build+%E2%80%A2+Solve+%E2%80%A2+Improve;Problem+Solving+%E2%80%A2+System+Design;Building+Scalable+Software;Learning+Something+New+Every+Day" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
----
+<!-- ==================== NAME & DESIGNATION ==================== -->
+<table>
+<tr>
+  
+<td width="65%" valign="top">
 
-## 👩‍💻 About Me
+# 👋 Hi, I'm <span style="color:#58A6FF;">Sayeda Rumaiya Islam</span>
+### Software Engineer | Problem Solver | Building Scalable Systems
 
-Hi! I'm Rumaiya, a beginner developer currently learning web development.
+I'm a recent graduate and aspiring Software Engineer passionate about
+problem solving, software development, and building real-world projects.
 
-I'm starting my journey from the basics and gradually building my skills through practice and small projects.
+Currently learning C++ and Web Development, I enjoy solving
+challenging problems, exploring new technologies, and continuously
+growing as a developer.
+</td>
 
-* 🌱 Currently learning: HTML
-* 💻 Interested in: Web Development
-* 🧠 Practicing: Programming fundamentals
-* 🚀 Goal: Become a professional developer
-* 📚 Learning something new every day
+<!-- ==================== GIF ==================== -->
+<td width="35%" align="center">
+<img
+src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
+width="280"
+/>
+</td>
+<hr>
 
----
+</tr>
+</table>
+<hr>
 
-## 🛠️ Currently Learning
+<!-- ==================== ABOUT ME ==================== -->
+### 👤More About Me:
 
-<p>
-<img src="https://skillicons.dev/icons?i=html" />
-</p>
+- 🎓 &nbsp; <b>Recently Graduated:</b> B.Sc. in Computer Science & Engineering।
+- 💻 &nbsp; <b>Learning:</b> C++ & Web Development
+- 🎯 &nbsp; <b>Interested In:</b> Software Development | Problem Solving
+- 🚀 &nbsp; <b>Currently Working On:</b> Personal Projects | Programming Practice
+- 👨🏻‍💻 &nbsp; <b>Most of my projects are available on:</b> [Github](https://github.com/rumu5550?tab=repositories)
+- 🤝 &nbsp; <b>Open To:</b> Learning | Collaboration | New Opportunities
+- 📫 &nbsp; <b>Connect With Me:</b> [LinkedIn](https://www.linkedin.com/in/rumaiya5550/)
+- 📝 &nbsp; <b>Resume:</b> <a href="YOUR_RESUME_LINK">View Resume</a>
+- 📝 &nbsp; <b>CV:</b> <a href="YOUR_RESUME_LINK">View Resume</a>
+- 🎨 &nbsp; <b>Hobbies:</b> Drawing | Crafting
+- 🔭 &nbsp;<b>currently working:<b> Youtube Content Creating 
 
-> More technologies will be added as I learn them.
+<!-- ==================== PROFILE HIGHLIGHTS ==================== -->
+<hr>
+<table>
+<tr>
 
----
+<td width="33%" align="center">
 
-## 📚 My Learning Journey
+### 💻 Currently
+- Learning Web Development & C++
+- Building projects
+- Learning System Design 
+- Solving Problem 
+- Contributing to Open Source
+</td>
 
-| Skill           | Status        |
-| --------------- | ------------- |
-| HTML            | 🟢 Learning   |
-| CSS             | ⚪ Coming Soon |
-| JavaScript      | ⚪ Coming Soon |
-| Git             | 🟢 Learning   |
-| GitHub          | 🟢 Learning   |
-| Problem Solving | ⚪ Coming Soon |
+<td width="33%" align="center">
 
----
+### 🎯 Long Term Goal
+- Become a world-class  
+  Software Engineer
+- Build impactful products
+  USA / Canada / Global
+</td>
 
-## 🚀 My Projects
+<td width="33%" align="center">
 
-I'm currently learning by building small projects.
+### 🚀 Open To
+- Remote opportunities
+- Software Engineering roles
+- Competitive Programmer
+- Open Source Collaboration
+</td>
 
-### 🌐 HTML Practice
-
-My first HTML practice projects and experiments.
-
-🔗 [View Repository](https://github.com/rumu5550)
-
----
-
-## 🧠 Problem Solving
-
-I'm just starting my problem-solving journey.
-
-* 🌱 Learning programming fundamentals
-* 📚 Practicing basic problems
-* 🎯 Planning to start DSA gradually
-
----
-
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=rumu5550&show_icons=true&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 🌱 My Goal
-
-> Learn → Practice → Build → Improve
-
-I'm not trying to learn everything at once.
-
-I'm focusing on becoming **1% better every day.**
-
----
-
-<div align="center">
-
-### 🚀 Currently Learning. Currently Building.
-
-Thanks for visiting my profile! 🤍
-
-</div>
+</tr>
+</table>
+<hr>
