@@ -122,9 +122,52 @@ width="280"
   <img alt="LeetCode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" />
 </a>
 <hr>
+
+<!-- ==================== GITHUB STATISTICS ==================== -->
+
+<h2>📊 GitHub Statistics</h2>
+
+<div align="center">
+
+<!--==== Overview + Top Languages ====-->
+ 
+  <a href="https://github.com/rumu5550">
+    <img
+      height="175"
+      src="https://github-readme-stats-fast.vercel.app/api?username=rumu5550&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=A371F7&text_color=E6EDF3&rank_icon=github"
+      alt="Rumu's GitHub Statistics"
+    />
+  </a>
+
+  <a href="https://github.com/rumu5550">
+    <img
+      height="175"
+      src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=rumu5550&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=E6EDF3"
+      alt="Rumu's Most Used Languages"
+    />
+  </a>
+
+  <br>
+
+<!--==== Contribution Streak ====-->
+
+<a href="https://github.com/rumu5550">
+    <img
+      height="175"
+      src="https://streak-stats.demolab.com?user=rumu5550&hide_border=true&background=0D1117&ring=58A6FF&fire=A371F7&currStreakLabel=58A6FF&sideLabels=E6EDF3&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E&stroke=30363D"
+      alt="Rumu's GitHub Contribution Streak"
+    />
+  </a>
+
+</div>
+<br>
+<hr>
+
+<!-- ==================== Quote ==================== -->
 <div align="center">
 
 <i>“Build with purpose. Solve with patience. Grow with every challenge.”</i>
 
 </div>
+<hr>
 
