@@ -85,6 +85,17 @@ width="280"
 </tr>
 </table>
 
+<!-- ==================== Connect With Me ==================== -->
+<hr>
+<h2 align="center">🌐 Connect With Me 🌐</h2>
+<br>
+<p align="center">
+<a href="https://github.com/rumu5550"><img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
+<a href="mailto:sayedarumaiya@gmail.com"><img alt="Email" src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+<a href="YOUR_PORTFOLIO_LINK_HERE"><img alt="Portfolio" src="https://img.shields.io/badge/-Portfolio-0052CC?style=flat-square&logo=google-chrome&logoColor=white" /></a>
+</p>
+
+
 <!-- ==================== SKILLS SECTION ==================== -->
 <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
@@ -109,18 +120,13 @@ width="280"
 
 <!-- ==================== Competitive Programming ==================== -->
 
-<h2 align="center">🏆 Competitive Programming</h2>
+<h2 align="center">🏆 Competitive Programming 🏆</h2>
 <br>
 <p align="center">
-  <a href="https://codeforces.com/profile/rumaiya5550">
-  <img alt="Codeforces" src="https://img.shields.io/badge/-Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" />
-</a>
-<a href="https://www.hackerrank.com/profile/sayedarumaiyais1">
-  <img alt="HackerRank" src="https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white" />
-</a>
-<a href="https://leetcode.com/u/rumu5550/">
-  <img alt="LeetCode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" />
-</a>
+  <a href="https://codeforces.com/profile/rumaiya5550" style="text-decoration: none;"><img alt="Codeforces" src="https://img.shields.io/badge/-Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" /></a>
+  <a href="https://www.hackerrank.com/profile/sayedarumaiyais1" style="text-decoration: none;"><img alt="HackerRank" src="https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/rumu5550/" style="text-decoration: none;"><img alt="LeetCode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" /></a>
+</p>
 <hr>
 
 <!-- ==================== GITHUB STATISTICS ==================== -->
